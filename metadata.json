@@ -1,0 +1,9 @@
+{
+  "name": "Lumina CS Hub",
+  "description": "A professional and efficient customer service chatbot assistant built with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered customer interactions",
+    "Real-time query resolution"
+  ]
+}
